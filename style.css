@@ -62,12 +62,6 @@ body {
   gap: 2rem;
   max-width: 1000px;
 }
-.tagline {
-  font-weight: bold;
-  font-size: 1.3rem;   /* bigger than normal text */
-  color: #003366;      /* dark blue */
-  margin-top: 0.5rem;
-}
 .profile-pic {
   width: 160px;
   height: 160px;
@@ -209,4 +203,5 @@ nav.show {
 #topBtn:hover {
   background: #d35400;
 }
+
 
